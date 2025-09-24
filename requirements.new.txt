@@ -1,0 +1,10 @@
+duckdb
+jinja2
+jupysql
+lightgbm
+notebook
+optuna
+plotly
+pytorch_frame
+relbench
+torch
